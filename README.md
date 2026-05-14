@@ -109,9 +109,6 @@ node STRAPI/TRABALHO_1/main.js
 ```
 
 ## Valor Técnico
-
-Este projeto destaca pontos que valorizam bem um repositório no GitHub:
-
 - construção dinâmica de filtros para Strapi
 - separação de responsabilidades
 - organização modular
@@ -127,4 +124,4 @@ Este projeto destaca pontos que valorizam bem um repositório no GitHub:
 
 ## Licença
 
-Você pode publicar este projeto com licença MIT, se quiser uma licença simples e bastante comum para portfólio no GitHub.
+MIT
