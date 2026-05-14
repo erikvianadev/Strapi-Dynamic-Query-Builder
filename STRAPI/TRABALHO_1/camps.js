@@ -1,0 +1,1 @@
+exports.campsFilter = ['title', 'content']

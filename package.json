@@ -1,0 +1,23 @@
+{
+  "name": "consulta-strapi-old-posts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Script Node.js para consultar posts antigos em uma API Strapi com filtros por termos e campos.",
+  "main": "STRAPI/TRABALHO_1/main.js",
+  "scripts": {
+    "start": "node STRAPI/TRABALHO_1/main.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "nodejs",
+    "strapi",
+    "api",
+    "query",
+    "prefeitura"
+  ],
+  "dependencies": {
+    "qs": "^6.15.1"
+  }
+}

@@ -1,0 +1,1 @@
+exports.termsFilter = ['GCM', 'guarda municipal', 'guarda civil municipal']
